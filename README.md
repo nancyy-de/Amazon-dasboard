@@ -1,3 +1,3 @@
-# Amazon-like Dashboard Boilerplate
+# IPL Prediction 
 
 Refer to backend/ and frontend/ folders.
